@@ -35,8 +35,9 @@ The purpose of termcolor is making output on the terminal visible mostly when us
 [visit: https://pypi.python.org/pypi/termcolor for more information on termcolor]
 * Installing termcolor in Linux
 use the following commands
-# sudo su
-# "your pass code"
+
+$ sudo su
+$ "your pass code"
 # apt-get update
 # apt-get install python-termcolor
 if your using python3 us
